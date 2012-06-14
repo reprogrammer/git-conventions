@@ -1,4 +1,5 @@
 git-conventions
 ===============
 
-Git convention files
+This repository contains some useful Git hooks.
+
